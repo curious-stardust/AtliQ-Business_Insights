@@ -107,6 +107,8 @@ There are two ways of organising the data called as star schema and snowflake sc
 **Star schema** has the fact table in the centre surrounded by dimension tables resembling a star, hence the name.  
 **Snowflake schema** is a extension of star schema where the dimension tables are further broken down into more tables connected to it and in-turn the dimension tables are connected to fact tables.
 
+![Data Model](https://github.com/user-attachments/assets/c98452ff-b13d-4e89-aba6-ac4126c43a1f)
+
 # Project outcome
 
 This dashboard provides key insights into AtliQ Hardware’s overall performance from FY 2019 - 2022 by transforming raw data into meaningful visuals and analytics to make better strategic decisions. The following outcomes were achieved:
