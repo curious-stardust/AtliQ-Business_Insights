@@ -101,10 +101,11 @@ There are two types of datasets in the data model: Dimension tables and Fact Tab
 
 # Data Modelling
 
-Data modelling is the process of organising and structuring data so that it can be stored in a database and easily retrieved for analysis. It helps define how different pieces of data relate to one another and how they are grouped together. It can be defined as creating a blue print of how data is stored.
-There are two ways of organising the data called as star schema and snowflake schema
-Star schema has the fact table in the centre surrounded by dimension tables resembling a star, hence the name.
-Snowflake schema is a extension of star schema where the dimension tables are further broken down into more tables connected to it and in-turn the dimension tables are connected to fact tables.
+Data modelling is the process of organising and structuring data so that it can be stored in a database and easily retrieved for analysis.  
+It helps define how different pieces of data relate to one another and how they are grouped together, in other words, it is a blue print of how data is stored.  
+There are two ways of organising the data called as star schema and snowflake schema  
+**Star schema** has the fact table in the centre surrounded by dimension tables resembling a star, hence the name.  
+**Snowflake schema** is a extension of star schema where the dimension tables are further broken down into more tables connected to it and in-turn the dimension tables are connected to fact tables.
 
 # Project outcome
 
