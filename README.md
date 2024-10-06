@@ -137,6 +137,5 @@ Supply Chain View
 Executive View
 ![Executive View](https://github.com/user-attachments/assets/4803eca8-2f61-4aed-91a3-bc912c99291a)
 
-You can find my detailed Power BI file here! 
-
-<iframe title="Business Insights 360 - Subhiksha" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjZhODA3MmEtMTMzMC00ZjQ3LWIyOWYtYjU0MTYxNTY3NTU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+You can find my detailed Power BI file -> [here
+](https://app.powerbi.com/view?r=eyJrIjoiMjZhODA3MmEtMTMzMC00ZjQ3LWIyOWYtYjU0MTYxNTY3NTU5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
