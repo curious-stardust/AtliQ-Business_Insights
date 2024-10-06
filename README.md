@@ -118,9 +118,3 @@ This dashboard provides key insights into AtliQ Hardware’s overall performance
 **Data-Driven Insights:** By switching from manual data methods to real-time analytics, the dashboard enables more informed decision-making and trend forecasting especially in the LATAM market
 
 **Visualisations:** With clear and interactive visuals, the dashboard simplifies complex data, making it easier for the team to monitor key performance indicators (KPIs) and track overall business health.
-
-
-
-https://github.com/user-attachments/assets/b4185cbe-e51f-4bc4-9dbf-e0f762dc3e2c
-
-
