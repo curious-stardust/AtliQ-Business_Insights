@@ -119,22 +119,28 @@ This dashboard provides key insights into AtliQ Hardware’s overall performance
 
 **Visualisations:** With clear and interactive visuals, the dashboard simplifies complex data, making it easier for the team to monitor key performance indicators (KPIs) and track overall business health.
 
-Overall View of the Dashboard
+**Overall View of the Dashboard**
+
 ![Overall View](https://github.com/user-attachments/assets/aad3b380-780d-44e3-a11b-e345b283dafd)
 
-Finance View
+**Finance View**
+
 ![Finance View](https://github.com/user-attachments/assets/6fc8fe25-b18b-4987-8c4f-e86663dfb0d6)
 
-Sales View
+**Sales View**
+
 ![Sales View](https://github.com/user-attachments/assets/3c5a3dc2-0bf3-471b-8cc9-06b39f24f78a)
 
-Marketing View
+**Marketing View**
+
 ![Marketing View](https://github.com/user-attachments/assets/4e8ad711-ddd4-4113-bb05-b5d380c12956)
 
-Supply Chain View
+**Supply Chain View**
+
 ![Supply chain View](https://github.com/user-attachments/assets/6bf30404-67d5-4ead-bbe1-511aec5805f8)
 
-Executive View
+**Executive View**
+
 ![Executive View](https://github.com/user-attachments/assets/4803eca8-2f61-4aed-91a3-bc912c99291a)
 
 You can find my detailed Power BI file -> [here
